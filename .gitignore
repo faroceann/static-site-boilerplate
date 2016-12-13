@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules
+
+# Caches
+__pycache__
+
+# Private data
+data
+
+# Logs
+npm-debug.log
+
+.DS_STORE

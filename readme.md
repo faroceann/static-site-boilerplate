@@ -1,6 +1,6 @@
 Static Site Boilerplate
 ======
-Static site boilerplate with all the gulp tasks. Easy SASS compilation, JS minification and concatenation, EJS view engine, and one click build.  
+Static site boilerplate with all the gulp tasks. SASS compilation and concatenation, JS minification and concatenation, EJS view engine, and one click build.  
 
 This is my starting point for building simple static sites. The project offers an EJS view engine, Gulp SASS compiler, JS/CSS minifiers, and autoprefixer. 
 
@@ -24,7 +24,7 @@ This is my starting point for building simple static sites. The project offers a
 # Getting started: 
 ```
 # Clone the repo
-git clone https://github.com/maxhammad/react-ruleminer.git
+git clone https://github.com/maxhammad/static-site-boilerplate
 cd ruleminer
 npm install
 

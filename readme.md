@@ -1,8 +1,6 @@
 Static Site Boilerplate
 ======
-Static site boilerplate with all the gulp tasks. SASS compilation and concatenation, JS minification and concatenation, EJS view engine, and one click build.  
-
-This is my starting point for building simple static sites. The project offers an EJS view engine, Gulp SASS compiler, JS/CSS minifiers, and autoprefixer. 
+This is my starting point for building simple static sites using Gulp/Node.js. The project offers an EJS view engine, Gulp SASS compiler, JS/CSS minifiers, and autoprefixer. 
 
 # Folder structure: 
 
